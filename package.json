@@ -1,0 +1,15 @@
+{
+  "name": "threejs_1",
+  "version": "1.0.0",
+  "description": "Grafika Komputer",
+  "main": "index.js",
+  "dependencies": {
+    "three": "^0.115.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
